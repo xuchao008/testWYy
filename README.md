@@ -6,6 +6,6 @@ a test demo
 3.问题汇总
 
 ```
-  [x] xxx
-  [x] xxx
+ - [x] xxx
+ - [x] xxx
 ```
